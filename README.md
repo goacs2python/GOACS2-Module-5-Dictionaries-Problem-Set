@@ -1,6 +1,6 @@
 # Module 5 Dictionaries Problem Set
 
-Please complete 2 of problems from the Module 7 Problem Set.
+Please complete 2 of problems from the Module 5 Problem Set.
 
 ---
 
